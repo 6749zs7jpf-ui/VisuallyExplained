@@ -1,0 +1,33 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "genres": [
+            "fiction",
+            "historical fiction"
+        ]
+    },
+    {
+        "title": "The Great Gatsby",
+        "genres": [
+            "fiction",
+            "classic"
+        ]
+    },
+    {
+        "title": "1984"
+    },
+    {
+        "title": "Pride and Prejudice",
+        "genres": [
+            "romance",
+            "classic"
+        ]
+    },
+    {
+        "title": "Per Anhalter durch die Galaxis",
+        "genres": [
+            "fiction",
+            "adventure"
+        ]
+    }
+]
